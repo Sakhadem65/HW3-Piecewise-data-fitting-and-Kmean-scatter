@@ -1,0 +1,1 @@
+# HW3-Piecewise-data-fitting-and-Kmean-scatter
